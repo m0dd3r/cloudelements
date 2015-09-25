@@ -1,4 +1,4 @@
-package cloudelements
+package h2go
 
 var ecommerce_base_path = "/hubs/ecommerce/"
 var ecommerce_paths = map[string]string{

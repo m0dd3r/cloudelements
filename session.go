@@ -1,4 +1,4 @@
-package cloudelements
+package h2go
 
 import (
 	"fmt"
